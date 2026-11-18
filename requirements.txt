@@ -1,0 +1,4 @@
+# requirements.txt
+# Aplicación utiliza únicamente la librería estándar de Python.
+# No se requieren dependencias externas para la aplicación.
+# Dependencias de prueba solo si son imprescindibles (por ejemplo pytest).
